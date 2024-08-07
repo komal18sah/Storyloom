@@ -38,7 +38,7 @@ st.markdown(
 
         Through LitCompass and MovieSage, Storyloom personalizes your storytelling journey. It allows you to explore new genres, rediscover old favorites, and embark on unexpected adventures.
 
-        So, what story will you weave today?
+        So, what story will you weave today? have fun
         Let Storyloom be your guide, your literary compass, and your cinematic sage – all woven together to ignite your love for new narratives. Dive deeper, discover further, and get ready to be captivated by the stories Storyloom helps you find.
     </p>
     """,
